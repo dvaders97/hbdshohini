@@ -1,0 +1,30 @@
+.message{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-radius: 5px;
+	border: 2px solid;
+	box-shadow: 3px 3px 3px 3px black;
+}
+.birthday_heading{
+	font-size: 60px;
+	text-align: center;
+	font-family: 'Tangerine', cursive;
+}
+.main_body{
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 25px;
+}
+body{
+	background-size: 90%;
+	
+	height: 100%;
+}
+.bachha_buri,.seagirl{
+	border-radius: 5px;
+	border: 3px solid;
+}
+.dancer{
+	border-radius: 5px;
+	border: 3px solid;
+	float: right;
+}
